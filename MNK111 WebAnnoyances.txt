@@ -1,0 +1,2 @@
+vg.no##.finn-dist, .replace-if-empty
+macrumors.com##.slick-inline-search-panel
