@@ -2,3 +2,4 @@
 vg.no##.finn-dist, .replace-if-empty
 macrumors.com##.slick-inline-search-panel
 vg.no##.index_module_container__ca2efcf9
+##.kur-floor--video.kur-floor--apartment.kur-floor--mix.kur-floor
